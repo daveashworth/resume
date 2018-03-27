@@ -101,9 +101,9 @@
       {Full Stack Software Engineer}{Mar 2016 - Present}
       \resumeItemListStart
         \resumeItem
-          {Create and maintain widgets in a scalable and efficient platform used for serving monetization products to schools and affiliate partners. Involved in building out the GraphQL API, several of the monetization widgets and related dynamic documentation.}
+          {Create and maintain embedabble UI components with tiny footprints that help drive leads to online universities. Involved in building out the centralized GraphQL API, the components, and the supporting technology to track their usage and effectiveness.}
         \resumeItem
-          {Built new widgets used for serving linkouts to prospective students. Involved from the inception to development of the system and associated tracking of the student until conversion with a school.}
+          {Built an inventory management system that empowers the business team to place and promote the most effective ad products across their entire portfolio of websites.}
         \resumeItem
           {Build all these full stack apps using lots of fun technologies (Node, React, Express, ES6/ES7, GraphQL, MobX, Knex, MySQL, PostgreSQL, and more...)}
       \resumeItemListEnd
@@ -147,10 +147,8 @@
 
 
 %-----------Additional Skills-----------------
-\section{Additional Skills}
+\section{About Me}
   \resumeSubHeadingListStart
-    \resumeItem
-      {Team player willing to do whatever it takes to help my organization succeed.}
     \resumeItem
       {Strong development and testing skills including experience with several technologies including Node, Express, GraphQL, React, Angular, HTML, CSS, Java, Git, and SQL.}
     \resumeItem
